@@ -1,0 +1,8 @@
+<map id="drivers/axi_core/axi_dmac/axi_dmac.h" name="drivers/axi_core/axi_dmac/axi_dmac.h">
+<area shape="rect" id="node1" title="Driver for the Analog Devices AXI&#45;DMAC core." alt="" coords="348,5,492,47"/>
+<area shape="rect" id="node2" href="$d2/d89/axi__dmac_8c.html" title="Driver for the Analog Devices AXI&#45;DMAC core." alt="" coords="5,95,149,136"/>
+<area shape="rect" id="node3" href="$d0/dcb/ad9208_2src_2main_8c.html" title="Implementation of Main Function." alt="" coords="174,95,322,136"/>
+<area shape="rect" id="node4" href="$d2/d4c/ad9361_2src_2main_8c.html" title="Implementation of Main Function." alt="" coords="346,95,494,136"/>
+<area shape="rect" id="node5" href="$d2/d89/ad9371_2src_2app_2headless_8c.html" title="Implementation of Main Function." alt="" coords="518,95,666,136"/>
+<area shape="rect" id="node6" href="$de/d90/adrv9009_2src_2app_2headless_8c.html" title="Contains example code for user integration with their application." alt="" coords="691,95,851,136"/>
+</map>

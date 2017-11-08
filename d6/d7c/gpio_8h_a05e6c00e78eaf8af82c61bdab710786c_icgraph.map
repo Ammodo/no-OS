@@ -1,0 +1,6 @@
+<map id="gpio_direction_input" name="gpio_direction_input">
+<area shape="rect" id="node1" title="Enable the input direction of the specified GPIO." alt="" coords="152,56,303,83"/>
+<area shape="rect" id="node2" href="$da/dd1/ad7193_8h.html#a7903bde75edfce48163cd9395915b18a" title="Initializes the communication peripheral and the initial Values for AD7193 Board and resets the devic..." alt="" coords="7,5,103,32"/>
+<area shape="rect" id="node3" href="$d1/d79/ad7780_8h.html#a99d2f22538499f3f242a5c1a52febbd0" title="Initializes the communication peripheral and the initial Values for AD7780 Board and checks if the de..." alt="" coords="7,56,103,83"/>
+<area shape="rect" id="node4" href="$db/d72/adxl372_8h.html#a30746b358cf0ef10cbdb0a8d49d37d49" title=" " alt="" coords="5,107,104,133"/>
+</map>
